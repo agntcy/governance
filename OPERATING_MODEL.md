@@ -5,7 +5,7 @@
 ### 1.1 Name & Identity
 
 - **Collective**: **The** **AGNTCY (aka Internet of Agents Collective, or the Collective)**
-- **Identity**: The AGNTCY (pronounced “agency”) is the collective of contributors and maintainers building the Internet of Agents (IoA): an open, interoperable, internet for agent-to-agent collaboration.
+- **Identity**: The AGNTCY (pronounced "agency") is the collective of contributors and maintainers building the Internet of Agents (IoA): an open, interoperable, internet for agent-to-agent collaboration.
 
 ### 1.2 Mission & Vision
 
@@ -29,7 +29,7 @@ The AGNTCY intends to serve the IoA ecosystem in the foundation-like role of ope
 - **Open Collaboration**: Foster a globally accessible community that encourages contributions from individuals and organizations.
 - **Innovation**: Empower contributors to experiment, propose, and build new features through open discussion and consensus.
 - **Stewardship of the projects**: Give each contributor a voice in shaping the proposed initiatives, relevant open-source projects, and overall direction of The AGNTCY.
-- **Fostering the growth and evolution of the ecosystem**: Provide community development and education around the collective’s affiliated projects. This includes reviewing or contributing documentation, workshops, demos, and tutorials to onboard new users and contributors. Serve the community by making the IoA technologies accessible and reliable.
+- **Fostering the growth and evolution of the ecosystem**: Provide community development and education around the collective's affiliated projects. This includes reviewing or contributing documentation, workshops, demos, and tutorials to onboard new users and contributors. Serve the community by making the IoA technologies accessible and reliable.
 
 ### 2.3 Guiding Principles
 
@@ -70,7 +70,7 @@ The AGNTCY shall initially be composed of corporate or non-profit members that h
 
 The AGNTCY Steering Committee is responsible for the governance of projects jointly owned under the Collective. The Steering Committee will also make technical decisions for the Collective, until such a time that the growth of the Collective would require an establishment of a Technical Oversight Committee.
 
-- **Composition**: Three Founding Members, and over time additional members can be added by majority vote of the Founding Members. This could include long-standing contributors and maintainers from the Collective’s affiliated projects.
+- **Composition**: Three Founding Members, and over time additional members can be added by majority vote of the Founding Members. This could include long-standing contributors and maintainers from the Collective's affiliated projects.
 - **Responsibilities**:
     1. Oversee strategic and long-term Collective goals.
     2. Guide architectural decisions and set standards.
