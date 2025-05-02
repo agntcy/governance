@@ -30,4 +30,8 @@ The current working groups are:
 
 | &nbsp;                                                   | Leads            | Company | Profile                                 |
 | -------------------------------------------------------- | ---------------- | ------- | --------------------------------------- |
-| Core                                      | Luca Muscariello                 |  Cisco Systems       | https://github.com/muscariello                      |
+| | Luca Muscariello    | Cisco Systems | https://github.com/muscariello |
+| | Alessandro Duminuco | Cisco Systems | https://github.com/aduminuc |
+| | Michele Papalini    | Cisco Systems | https://github.com/micpapal |
+| | Mauro Sardara       | Cisco Systems | https://github.com/msardara |
+
