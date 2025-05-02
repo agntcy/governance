@@ -19,7 +19,7 @@ The current working groups are:
 - Meetings: **TBD**
 - Repos:
   - [AGP](https://github.com/agntcy/agp)
-  - [Agnet Directory](https://github.com/agntcy/dir)
+  - [Agent Directory](https://github.com/agntcy/dir)
   - [CSIT](https://github.com/agntcy/csit)
   - [OASF](https://github.com/agntcy/oasf)
   - [ACP](https://github.com/agntcy/acp-sdk)
