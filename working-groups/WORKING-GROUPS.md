@@ -34,4 +34,5 @@ The current working groups are:
 | | Alessandro Duminuco | Cisco Systems | https://github.com/aduminuc |
 | | Michele Papalini    | Cisco Systems | https://github.com/micpapal |
 | | Mauro Sardara       | Cisco Systems | https://github.com/msardara |
+| | Ramiz Polic         | Cisco Systems | https://github.com/ramizpolic |
 
