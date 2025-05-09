@@ -10,8 +10,8 @@ The current working groups are:
 
 | Group            | Design Docs | Slack Channel | Description                                                              
 |------------------|-------------|---------------|--------------------------------------------------------------------------
-| [Core] | <TBD>       | <TBD>         | AGNTCY core working group
-| [Observe and Eval]| <TBD>       | <TBD>         | AGNTCY observe and eval working group
+| [Core] | <TBD>       | [#wg-core](https://agntcy.slack.com/archives/C08R1LZEP0V) | AGNTCY core working group
+| [Observe and Eval]| <TBD>       | [#wg-observ-and-eval](https://agntcy.slack.com/archives/C08RMAML6JH) | AGNTCY observe and eval working group
 
 ## Core
 
@@ -27,7 +27,7 @@ The current working groups are:
   - [Workflow server](https://github.com/agntcy/workflow-srv)
   - [IO Mapper](https://github.com/agntcy/iomapper-agnt)
   - [API bridge](https://github.com/agntcy/api-bridge-agnt)
-- Discussion Channel: **TBD**
+- Discussion Channel: [AGNTCY slack #wg-core](https://agntcy.slack.com/archives/C08R1LZEP0V)
 
 | &nbsp;                                                   | Leads            | Company | Profile                                 |
 | -------------------------------------------------------- | ---------------- | ------- | --------------------------------------- |
@@ -44,7 +44,7 @@ The current working groups are:
 - Meetings: **TBD**
 - Repos:
   - **To be announced**
-- Discussion Channel: **TBD**
+- Discussion Channel: [AGNTCY slack #wg-observ-and-eval](https://agntcy.slack.com/archives/C08RMAML6JH)
 
 | &nbsp;                                                   | Leads            | Company | Profile                                 |
 | -------------------------------------------------------- | ---------------- | ------- | --------------------------------------- |
