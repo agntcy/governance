@@ -72,8 +72,7 @@ working group, the working group leads need to take a few steps to establish the
 working group._
 
 - **Create a Google Drive Folder**. Create a folder to hold your working group
-  documents within this parent
-  [folder](TBD).
+  documents within this parent [folder](https://drive.google.com/drive/folders/1l5v-aEArWGUL2_f79bx3ysizsRH2Z8PM?usp=sharing).
   Call your folder "GROUP_NAME".
 
 - **Create a Meeting Notes Document**. Create a blank document in the above
@@ -82,8 +81,7 @@ working group._
 - **Create a Roadmap**. Create a new [Roadmap Project Board](TBD) **TODO**.
 
 - **Schedule a Recurring Meeting**. Create a recurring meeting (weekly or
-  bi-weekly, 30 or 60 minutes) on the
-  ***TODO**  [shared calendar](TBD)
+  bi-weekly, 30 or 60 minutes) on the [shared calendar](https://calendar.google.com/calendar/embed?src=c_247fbd7eabd1c52e189c195f72e6a228e5d4fb5cd921e0bf95a1a1f6f55b4343%40group.calendar.google.com&ctz=America%2FBoise )
   and call the meeting "\$GROUP_NAME WG". Attach the meeting notes document to
   the calendar event. Generally schedule these meetings between 9:00AM to 2:59PM
   Pacific Time. Invite `<TBD>` Google group to the
@@ -94,7 +92,7 @@ working group._
   group name, the names of the leads, the working group charter, and a link to
   the meeting you created.
 
-- **Announce your Working Group**. Send a note to **TBD** to
+- **Announce your Working Group**. Send a note to **agntcy-general on AGNTCY.slack** to
   announce your new working group. Include your charter in the email and provide
   links to the meeting invitation.
 
@@ -172,9 +170,8 @@ Sometimes, different working groups can have conflicting goals or requirements.
 Leads from all affected working groups generally work together and come to an
 agreeable conclusion.
 
-In all cases, remaining blocking issues can be raised to the **TODO**
-[steering committee](TBD) to help resolve
+In all cases, remaining blocking issues can be raised to the steering committee will help resolve
 the situation. To trigger an escalation, create an issue in the **TODO**
-steering committee's agenda and be prepared to attend a meeting to provide
+steering committee's agenda (or email admin@agntcy.org) and be prepared to attend a meeting to provide
 an explanation of the underlying problem as well as cogent arguments for both
 sides.
