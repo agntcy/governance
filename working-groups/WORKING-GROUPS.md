@@ -12,6 +12,7 @@ The current working groups are:
 |------------------|-------------|---------------|--------------------------------------------------------------------------
 | [Core] | <TBD>       | <TBD>         | AGNTCY core working group
 | [Observe and Eval]| <TBD>       | <TBD>         | AGNTCY observe and eval working group
+| [Identity]  | <TBD>       | <TBD>         | AGNTCY identity working group
 
 ## Core
 
@@ -50,3 +51,19 @@ The current working groups are:
 | -------------------------------------------------------- | ---------------- | ------- | --------------------------------------- |
 | | Giovanna Carofiglio    | Cisco Systems | https://github.com/gcarofig |
 | | Jacques Samain | Cisco Systems | https://github.com/Castorche |
+
+## Identity
+
+- [Charter](identity/CHARTER.md)
+- Roadmap: **TBD**
+- Meetings: **TBD**
+- Repos:
+  - **To be announced**
+- Discussion Channel: **TBD**
+
+| &nbsp;                                                   | Leads            | Company | Profile                                 |
+| -------------------------------------------------------- | ---------------- | ------- | --------------------------------------- |
+| | Marcelo Yannuzzi    | Cisco Systems | https://github.com/mayannuz |
+| | Jean Diaconu        | Cisco Systems | https://github.com/jadiaconu |
+| | Herve Muyal         | Cisco Systems | https://github.com/hmuyal |
+
