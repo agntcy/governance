@@ -12,15 +12,15 @@ The current working groups are:
 | ------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------- |
 | [Core](#core)                         | [CoreWG drive](https://drive.google.com/drive/folders/1AbFEfM8HZF0_5LbgLXXxiHqFUIsiSjPa?usp=sharing) | [#wg-core](https://agntcy.slack.com/archives/C08R1LZEP0V)            | AGNTCY core working group             |
 | [Observe and Eval](#observe-and-eval) | [drive](https://drive.google.com/drive/folders/1TO_r4xuElzaqZKiQ8g8iSRicCC-s-FVw?usp=sharing)        | [#wg-observ-and-eval](https://agntcy.slack.com/archives/C08RMAML6JH) | AGNTCY observe and eval working group |
-| [Identity](#identity)                 | <TBD>                                                                                                | [#wg-identity](https://agntcy.slack.com/archives/C08TZPX83KR)        | AGNTCY identity working group         |
+| [Identity](#identity)                 | [drive](https://drive.google.com/drive/folders/1TuWnu991AhtpoqFdBjxQdEbb6VadVbBO)                                                                                             | [#wg-identity](https://agntcy.slack.com/archives/C08TZPX83KR)        | AGNTCY identity working group         |
 
 ## Core
 
 - [Charter](core/CHARTER.md)
 - Roadmap: **TBD**
-- Meetings: **TBD**
+- Meetings: [See AGNTCY Calendar](https://calendar.google.com/calendar/embed?src=admin%40ops.agntcy.org&ctz=America%2FNew_York)
 - Repos:
-  - [AGP](https://github.com/agntcy/agp)
+  - [SLIM](https://github.com/agntcy/slim)
   - [Agent Directory](https://github.com/agntcy/dir)
   - [CSIT](https://github.com/agntcy/csit)
   - [OASF](https://github.com/agntcy/oasf)
@@ -42,9 +42,9 @@ The current working groups are:
 
 - [Charter](observe-and-eval/CHARTER.md)
 - Roadmap: **TBD**
-- Meetings: **TBD**
+- Meetings: [See AGNTCY Calendar](https://calendar.google.com/calendar/embed?src=admin%40ops.agntcy.org&ctz=America%2FNew_York)
 - Repos:
-  - **To be announced**
+  - [Observe-SDK](https://github.com/agntcy/observe)
 - Discussion Channel: [AGNTCY slack #wg-observ-and-eval](https://agntcy.slack.com/archives/C08RMAML6JH)
 
 | &nbsp; | Leads               | Company       | Profile                      |
@@ -56,7 +56,7 @@ The current working groups are:
 
 - [Charter](identity/CHARTER.md)
 - Roadmap: **TBD**
-- Meetings: **TBD**
+- Meetings: [See AGNTCY Calendar](https://calendar.google.com/calendar/embed?src=admin%40ops.agntcy.org&ctz=America%2FNew_York)
 - Repos:
   - [Identity Spec](https://github.com/agntcy/identity-spec)
   - [Identity](https://github.com/agntcy/identity)
