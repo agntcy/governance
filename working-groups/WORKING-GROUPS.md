@@ -12,7 +12,7 @@ The current working groups are:
 | ------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------- |
 | [Core](#core)                         | [CoreWG drive](https://drive.google.com/drive/folders/1AbFEfM8HZF0_5LbgLXXxiHqFUIsiSjPa?usp=sharing) | [#wg-core](https://agntcy.slack.com/archives/C08R1LZEP0V)            | AGNTCY core working group             |
 | [Observe and Eval](#observe-and-eval) | [drive](https://drive.google.com/drive/folders/1TO_r4xuElzaqZKiQ8g8iSRicCC-s-FVw?usp=sharing)        | [#wg-observ-and-eval](https://agntcy.slack.com/archives/C08RMAML6JH) | AGNTCY observe and eval working group |
-| [Identity](#identity)                 | [drive](https://drive.google.com/drive/folders/1TuWnu991AhtpoqFdBjxQdEbb6VadVbBO)                                                                                             | [#wg-identity](https://agntcy.slack.com/archives/C08TZPX83KR**        | AGNTCY identity working group         |
+| [Identity](#identity)                 | [drive](https://drive.google.com/drive/folders/1TuWnu991AhtpoqFdBjxQdEbb6VadVbBO)                                                                                             | [#wg-identity](https://agntcy.slack.com/archives/C08TZPX83KR)         | AGNTCY identity working group         |
 
 **NOTE:** [AGNTCY Slack self join link]( https://join.slack.com/t/agntcy/shared_invite/zt-34sxmw5e8-LqlUxxcxROq3HRb56QSkUg)
 

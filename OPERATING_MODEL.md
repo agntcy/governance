@@ -25,11 +25,11 @@
 
 ### 2.1 Purpose
 
-The AGNTCY intends to serve the IoA ecosystem in the foundation-like role of open source software steward.
+AGNTCY intends to serve the IoA ecosystem in the foundation-like role of open source software steward.
 
 - **Open Collaboration**: Foster a globally accessible community that encourages contributions from individuals and organizations.
 - **Innovation**: Empower contributors to experiment, propose, and build new features through open discussion and consensus.
-- **Stewardship of the projects**: Give each contributor a voice in shaping the proposed initiatives, relevant open-source projects, and overall direction of The AGNTCY.
+- **Stewardship of the projects**: Give each contributor a voice in shaping the proposed initiatives, relevant open-source projects, and overall direction of AGNTCY.
 - **Fostering the growth and evolution of the ecosystem**: Provide community development and education around the project's sub-projects and affiliated projects. This includes reviewing or contributing documentation, workshops, demos, and tutorials to onboard new users and contributors. Serve the community by making the IoA technologies accessible and reliable.
 
 ### 2.3 Guiding Principles
@@ -86,7 +86,7 @@ This section outlines the various responsibilities of roles in AGNTCY.
 
 ### 3.3 Contributors
 
-- Individuals who contribute code, documentation, designs, bug fixes, or community support for The AGNTCY affiliated projects. Reviewing contributions is also considered active participation as a contributor.
+- Individuals who contribute code, documentation, designs, bug fixes, or community support for AGNTCY affiliated projects. Reviewing contributions is also considered active participation as a contributor.
 - **Path to Contribution**:
     1. Submit pull requests or patches.
     2. Engage in discussions, design proposals, and issue triage.
@@ -95,7 +95,7 @@ This section outlines the various responsibilities of roles in AGNTCY.
 
 ### 3.4 Committers
 
-- Individuals who review and/or approve contributed code, documentation, designs, bug fixes, or moderate community support for The AGNTCY affiliated projects.
+- Individuals who review and/or approve contributed code, documentation, designs, bug fixes, or moderate community support for AGNTCY affiliated projects.
 - **Path to Committer**:
     1. Frequently review pull requests or patches.
     2. Lead discussions, design proposals, and issue triage.
@@ -105,7 +105,7 @@ This section outlines the various responsibilities of roles in AGNTCY.
 
 The AGNTCY Technical Steering Committee (TSC) is responsible for the governance of projects jointly owned under AGNTCY and its sub-projects. The Technical Steering Committee will set the technical direction of the project and sub-projects.
 
-- **Composition**: The TSC membership is defined in [CONTRIBUTING.md](CONTRIBUTING.md#technical-steering-committee-members).  It is the intent to establish a voting mechanism and process to expand the Technical Steering Committee, to be determined by contributors. The vision is for the AGNTCY to be a community-governed project and include long-standing contributors and maintainers from affiliated projects.
+- **Composition**: The TSC membership is defined in [CONTRIBUTING.md](CONTRIBUTING.md#technical-steering-committee-members).  It is the intent to establish a voting mechanism and process to expand the Technical Steering Committee, to be determined by the Committee itself. The vision is for the AGNTCY to be a community-governed project and include long-standing contributors and committers from affiliated projects.
 
 - **Responsibilities**:
     1. Oversee strategic and long-term project goals.
@@ -195,7 +195,7 @@ The core communication will be through the AGNTCY's Slack instance which will be
 
 ### 6.2 Documentation & Website
 
-The AGNTCY’s main web home will be a Git repo that all members have access to. The vanity URL and domain of "[AGNTCY.org](https://AGNTCY.org)" will have relevant project information. Some items that may be included there:
+AGNTCY’s main web home will be a Git repo that all members have access to. The vanity URL and domain of "[AGNTCY.org](https://AGNTCY.org)" will have relevant project information. Some items that may be included there:
 
 - **User Guide**: Detailed setup instructions, examples, and best practices.
 - **Developer Guide**: Architecture overview, how to run tests, coding conventions, how to propose changes.
@@ -203,7 +203,7 @@ The AGNTCY’s main web home will be a Git repo that all members have access to.
 
 ### 6.3 Events & Outreach
 
-The AGNTCY by definition is a community-oriented organization. To achieve our mission, we must build and collaborate together! We intend to support member initiatives through investing in and coordinating in person and virtual meetups as well as educational initiatives. These could include the following:
+AGNTCY by definition is a community-oriented organization. To achieve our mission, we must build and collaborate together! We intend to support member initiatives through investing in and coordinating in person and virtual meetups as well as educational initiatives. These could include the following:
 
 - **Meetups/Workshops**: Encourage local community gatherings and virtual hackathons.
 - **Conferences**: Represent AGNTCY at open source conferences, featuring project updates, case studies, or success stories.
@@ -221,7 +221,7 @@ The AGNTCY by definition is a community-oriented organization. To achieve our mi
 
 ### 7.1 Code of Conduct
 
-- AGNTCY Adopts the [**Contributor Covenant**](https://www.contributor-covenant.org/) (version 2.1 or newer), ensuring a welcoming and respectful community.
+- AGNTCY adopts the [**Contributor Covenant**](https://www.contributor-covenant.org/) (version 2.1 or newer), ensuring a welcoming and respectful community.
 - [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
 
 ### 7.2 Reporting & Enforcement
@@ -277,7 +277,7 @@ The AGNTCY by definition is a community-oriented organization. To achieve our mi
 
 ### Community Growth
 
-- Number of active sub-projects and affiliate projects that have active contributors, diversity of participation, and new maintainers added.
+- Number of active sub-projects and affiliate projects that have active contributors, diversity of participation, and new committers added.
 
 ### Project Health
 
@@ -297,6 +297,6 @@ The AGNTCY by definition is a community-oriented organization. To achieve our mi
 
 ## Conclusion
 
-This charter and operating model outlines how **The AGNTCY** will operate as a transparent, inclusive, and merit-based open source project. By combining clear governance structures, open contribution pathways, a strong code of conduct, and robust technical processes, The AGNTCY aims to foster a thriving ecosystem and deliver high-quality software solutions through its members.
+This charter and operating model outlines how **AGNTCY** will operate as a transparent, inclusive, and merit-based open source project. By combining clear governance structures, open contribution pathways, a strong code of conduct, and robust technical processes, AGNTCY aims to foster a thriving ecosystem and deliver high-quality software solutions through its members.
 
 **Welcome to The AGNTCY!** We look forward to building the future of multi agent applications and workflows together.
