@@ -44,8 +44,8 @@ Current TSC members in alphabetical order:
 - Luca Muscariello (Cisco, @muscariello)
 - John Parello (Cisco, @jparello)
 - Egor Pushkin (Oracle, @egorpushkin)
-- Marcelo Yannuzi (Cisco, @mayannuz)
 - Todd Segal (Google Cloud, @ToddSegal)
+- Marcelo Yannuzi (Cisco, @mayannuz)
 
 ## Working Groups
 
