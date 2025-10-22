@@ -13,6 +13,7 @@ The current working groups are:
 | [Core](#core)                         | [CoreWG drive](https://drive.google.com/drive/folders/1AbFEfM8HZF0_5LbgLXXxiHqFUIsiSjPa?usp=sharing) | [#wg-core](https://agntcy.slack.com/archives/C08R1LZEP0V)            | AGNTCY core working group             |
 | [Observe and Eval](#observe-and-eval) | [drive](https://drive.google.com/drive/folders/1TO_r4xuElzaqZKiQ8g8iSRicCC-s-FVw?usp=sharing)        | [#wg-observ-and-eval](https://agntcy.slack.com/archives/C08RMAML6JH) | AGNTCY observe and eval working group |
 | [Identity](#identity)                 | [drive](https://drive.google.com/drive/folders/1TuWnu991AhtpoqFdBjxQdEbb6VadVbBO)                                                                                             | [#wg-identity](https://agntcy.slack.com/archives/C08TZPX83KR)         | AGNTCY identity working group         |
+| [coffee-app-sdk](#coffee-app-sdk)                 | [drive](https://drive.google.com/drive/folders/1vyKYqh_Hlqi9TNdeGopgtHPjU9ogIxrN?usp=sharing)                                                                                             | [#wg-coffee-app-sdk](https://agntcy.slack.com/archives/C0979J92X9C)         | AGNTCY app-sdk and sample app (coffeeAgntcy) working group         |
 
 **NOTE:** [AGNTCY Slack self join link]( https://join.slack.com/t/agntcy/shared_invite/zt-34sxmw5e8-LqlUxxcxROq3HRb56QSkUg)
 
@@ -69,3 +70,19 @@ The current working groups are:
 |        | Marcelo Yannuzzi | Cisco Systems | https://github.com/mayannuz  |
 |        | Jean Diaconu     | Cisco Systems | https://github.com/jadiaconu |
 |        | Herve Muyal      | Cisco Systems | https://github.com/hmuyal    |
+
+## coffee-app-sdk
+
+- [Charter](coffee-app-sdk/charter.md)
+- Roadmap: **TBD**
+- Meetings: [See AGNTCY Calendar](https://calendar.google.com/calendar/embed?src=admin%40ops.agntcy.org&ctz=America%2FNew_York)
+- Repos:
+  - [app-sdk](https://github.com/agntcy/app-sdk)
+  - [coffeeAgntcy](https://github.com/agntcy/coffeeAgntcy/)
+- Discussion Channel: [AGNTCY slack #wg-coffee-app-sdk](https://agntcy.slack.com/archives/C0979J92X9C)
+
+| &nbsp; | Leads            | Company       | Profile                      |
+| ------ | ---------------- | ------------- | ---------------------------- |
+|        | John Parello | Cisco Systems | https://github.com/jparello |
+|        | Cody Harstook     | Cisco Systems | https://github.com/codyhartsook |
+
