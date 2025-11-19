@@ -65,11 +65,12 @@ The current working groups are:
   - [Identity](https://github.com/agntcy/identity)
 - Discussion Channel: [AGNTCY slack #wg-identity](https://agntcy.slack.com/archives/C08TZPX83KR)
 
-| &nbsp; | Leads            | Company       | Profile                      |
-| ------ | ---------------- | ------------- | ---------------------------- |
-|        | Marcelo Yannuzzi | Cisco Systems | https://github.com/mayannuz  |
-|        | Jean Diaconu     | Cisco Systems | https://github.com/jadiaconu |
-|        | Herve Muyal      | Cisco Systems | https://github.com/hmuyal    |
+| &nbsp; | Leads            | Company            | Profile                       |
+| ------ | ---------------- | ------------------ | ----------------------------- |
+|        | Marcelo Yannuzzi | Cisco Systems      | https://github.com/mayannuz   |
+|        | Jean Diaconu     | Cisco Systems      | https://github.com/jadiaconu  |
+|        | Herve Muyal      | Cisco Systems      | https://github.com/hmuyal     |
+|        | Sarah Evans      | Dell Technologies  | https://github.com/sevansdell |
 
 ## coffee-app-sdk
 
