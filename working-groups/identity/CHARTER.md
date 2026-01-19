@@ -2,32 +2,7 @@
 
 ## Mission
 
-Welcome to the Identity Working Group! We're building the foundational standards for identity in multi-agentic systems. Whether you're a developer, researcher, or contributor interested in secure agent interactions, we're glad you're here.
-
----
-
-## 🚀 Quick Start for New Members
-
-**New to the group?** Here's how to get started in 3 steps:
-
-1. **Join Slack** → [Get your invite](https://join.slack.com/t/agntcy/shared_invite/zt-34sxmw5e8-LqlUxxcxROq3HRb56QSkUg), then join [#identity-wg](https://agntcy.slack.com/archives/C08TZPX83KR) and introduce yourself
-2. **Check the calendar** → [View upcoming meetings](https://calendar.google.com/calendar/u/0/embed?src=admin@ops.agntcy.org)
-3. **Explore resources** → [Browse our shared Drive](https://drive.google.com/drive/folders/1TuWnu991AhtpoqFdBjxQdEbb6VadVbBO)
-
-💬 Have questions? Ask in Slack — we're here to help!
-
----
-
-## 📊 At a Glance
-
-|                     |                                                                                                      |
-| ------------------- | ---------------------------------------------------------------------------------------------------- |
-| **💬 Discussion**   | [#identity-wg Slack channel](https://agntcy.slack.com/archives/C08TZPX83KR)                          |
-| **📅 Meetings**     | [Bi-weekly calendar](https://calendar.google.com/calendar/u/0/embed?src=admin@ops.agntcy.org)        |
-| **📂 Documents**    | [Google Drive folder](https://drive.google.com/drive/folders/1TuWnu991AhtpoqFdBjxQdEbb6VadVbBO)      |
-| **💻 Code**         | [Identity repository](https://github.com/agntcy/identity)                                            |
-| **👥 Contributors** | [Work-in-progress docs](https://github.com/agntcy/identity-service/tree/main/docs/contribute/wip)    |
-| **🔓 Join Slack**   | [Get your invite](https://join.slack.com/t/agntcy/shared_invite/zt-34sxmw5e8-LqlUxxcxROq3HRb56QSkUg) |
+The mission of this working group is to contribute to the definition of standards focused on identity in multi-agentic systems.
 
 ---
 
@@ -47,23 +22,17 @@ The goals of this working group can be summarized as follows:
 
 - Enabling fine-grained, access controls for agents and tools, ensuring that permissions are scoped, time-bound, and auditable across multi-agentic interactions.
 
-## Scope
+---
 
-This working group would be responsible of everything that is related to identity in multi-agentic systems, and will mainly contribute to the [identity](https://github.com/agntcy/identity) and [identity-service](https://github.com/agntcy/identity-service) repositories.
+## Resources and Quick Start for New Members
 
-## Resources
-
-- Meetings: [See AGNTCY Calendar](https://calendar.google.com/calendar/embed?src=admin%40ops.agntcy.org&ctz=America%2FNew_York)
-
-- Repositories:
-
-  - [identity-spec](https://github.com/agntcy/identity-spec)
-  - [identity](https://github.com/agntcy/identity)
-  - [identity-service](https://github.com/agntcy/identity-service)
-
-- Discussion Channel: AGNTCY slack #wg-identity
-
-- Roadmap: <https://github.com/orgs/agntcy/projects/4/views/11>
+|                     |                                                                                                                                                                                  |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **💬 Join Slack**   | [#identity-wg Slack channel](https://agntcy.slack.com/archives/C08TZPX83KR)                                                                                                      |
+| **📅 Meetings**     | [Bi-weekly calendar](https://calendar.google.com/calendar/u/0/embed?src=admin@ops.agntcy.org)                                                                                    |
+| **📂 Documents**    | [Google Drive folder](https://drive.google.com/drive/folders/1TuWnu991AhtpoqFdBjxQdEbb6VadVbBO)                                                                                  |
+| **💻 Repositories** | [identity](https://github.com/agntcy/identity) <br> [identity-service](https://github.com/agntcy/identity-service) <br> [identity-spec](https://github.com/agntcy/identity-spec) |
+| **📍🗺️ Roadmap**    | <https://github.com/orgs/agntcy/projects/4/views/11>                                                                                                                             |
 
 ## Active Workstreams
 
@@ -78,14 +47,4 @@ This working group would be responsible of everything that is related to identit
 
 ---
 
-## Additional Resources
-
-### Related Links
-
-- [AGNTCY Governance](https://github.com/agntcy/governance)
-- [All Working Groups](https://github.com/agntcy/governance/blob/main/working-groups/WORKING-GROUPS.md)
-- [Code of Conduct](https://github.com/agntcy/governance/blob/main/CODE_OF_CONDUCT.md)
-
----
-
-**Questions or feedback?** Reach out in the [#identity-wg Slack channel](https://agntcy.slack.com/archives/C08TZPX83KR). We're excited to have you as part of the Identity Working Group — your perspectives and contributions help shape the future of identity in multi-agentic systems!
+**Questions or feedback?** Please reach out in the [#identity-wg Slack channel](https://agntcy.slack.com/archives/C08TZPX83KR). We're excited to have you as part of the Identity Working Group.
