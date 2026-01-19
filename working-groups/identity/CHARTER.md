@@ -20,7 +20,7 @@ The goals of this working group can be summarized as follows:
 
 - Promoting openness and interoperability across multi-agentic systems and ecosystems, including seamless integration with Identity Providers (IdPs), Auth Servers and standard AuthN/AuthZ flows.
 
-- Enabling fine-grained, access controls for agents and tools, ensuring that permissions are scoped, time-bound, and auditable across multi-agentic interactions.
+- Enabling fine-grained access controls for agents and tools, ensuring that permissions are scoped, time-bound, and auditable across multi-agentic interactions.
 
 ---
 
