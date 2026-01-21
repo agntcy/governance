@@ -10,7 +10,7 @@ The current working groups are:
 
 | Group   | Design Docs | Slack Channel / GH Discussions  | Description  |
 | ------------------------------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------- |
-| [Core](#core)                         | [CoreWG drive](https://drive.google.com/drive/folders/1AbFEfM8HZF0_5LbgLXXxiHqFUIsiSjPa?usp=sharing) | [#wg-core](https://agntcy.slack.com/archives/C08R1LZEP0V) :: [SLIM GH Discussions](https://github.com/agntcy/slim/discussions) :: [Dir GH Discussions](https://github.com/agntcy/dir/discussions) :: [OASF GH Discussions](https://github.com/agntcy/oasf/discussions) :: [OASF-SDK GH Discussions](https://github.com/agntcy/oasf-sdk/discussions) | AGNTCY core working group             |
+| [Core](#core)                         | Design Docs in GH repos | [#wg-core](https://agntcy.slack.com/archives/C08R1LZEP0V) :: [SLIM GH Discussions](https://github.com/agntcy/slim/discussions) :: [Dir GH Discussions](https://github.com/agntcy/dir/discussions) :: [OASF GH Discussions](https://github.com/agntcy/oasf/discussions) :: [OASF-SDK GH Discussions](https://github.com/agntcy/oasf-sdk/discussions) | AGNTCY core working group             |
 | [Observe and Eval](#observe-and-eval) | [drive](https://drive.google.com/drive/folders/1TO_r4xuElzaqZKiQ8g8iSRicCC-s-FVw?usp=sharing)        | [#wg-observ-and-eval](https://agntcy.slack.com/archives/C08RMAML6JH) :: [GH Discussions](https://github.com/agntcy/observe/discussions) | AGNTCY observe and eval working group |
 | [Identity](#identity) :: [Subgroups](https://github.com/agntcy/identity-service/tree/main/docs/contribute/wip) | [drive](https://drive.google.com/drive/folders/1TuWnu991AhtpoqFdBjxQdEbb6VadVbBO) | [#wg-identity](https://agntcy.slack.com/archives/C08TZPX83KR) :: [Identity-Service GH Discussions](https://github.com/agntcy/identity-service/discussions) :: [Identity Discussions](https://github.com/agntcy/identity/discussions)  | AGNTCY identity working group         |
 | [coffee-app-sdk](#coffee-app-sdk) | [drive](https://drive.google.com/drive/folders/1vyKYqh_Hlqi9TNdeGopgtHPjU9ogIxrN?usp=sharing)                                                                                             | [#wg-coffee-app-sdk](https://agntcy.slack.com/archives/C0979J92X9C) :: [GH Discussions](https://github.com/agntcy/coffeeAgntcy/discussions) | AGNTCY app-sdk and sample app (coffeeAgntcy) working group         |
@@ -32,15 +32,16 @@ The current working groups are:
   - [CSIT](https://github.com/agntcy/csit)
   - [OASF](https://github.com/agntcy/oasf)
   - [ACP](https://github.com/agntcy/acp-sdk) **Deprecated**
-  - [Workflow server](https://github.com/agntcy/workflow-srv)
-  - [IO Mapper](https://github.com/agntcy/iomapper-agnt)
+  - [Workflow server](https://github.com/agntcy/workflow-srv) **Deprecated**
+    - [Workflow server manager](https://github.com/agntcy/workflow-srv-mgr) **Deprecated**
+  - [IO Mapper](https://github.com/agntcy/iomapper-agnt) **Deprecated**
   - [API bridge](https://github.com/agntcy/api-bridge-agnt)
 - Discussions: 
   - [AGNTCY slack #wg-core](https://agntcy.slack.com/archives/C08R1LZEP0V)
   - [SLIM GH Discussions](https://github.com/agntcy/slim/discussions)
   - [Dir GH Discussions](https://github.com/agntcy/slim/discussions)
   - [OASF GH Discussions](https://github.com/agntcy/oasf/discussions)
-  - [OASF-SDK GH Discussions](https://github.com/agntcy/oasf-sdk/discussions)
+    - [OASF-SDK GH Discussions](https://github.com/agntcy/oasf-sdk/discussions)
 
 | &nbsp; | Leads               | Company       | Profile                        |
 | ------ | ------------------- | ------------- | ------------------------------ |
