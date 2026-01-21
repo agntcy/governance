@@ -74,7 +74,9 @@ The current working groups are:
 
 - [Charter](identity/CHARTER.md)
 - [Roadmap](https://github.com/orgs/agntcy/projects/4/views/11)
-- [Subgroups](https://github.com/agntcy/identity-service/tree/main/docs/contribute/wip)
+- Workstreams:
+  - [Charter & Leads](https://github.com/agntcy/governance/blob/main/working-groups/identity/CHARTER.md#active-workstreams)
+  - [Activity Info](https://github.com/agntcy/identity-service/tree/main/docs/contribute/wip)
 - Meetings: [See AGNTCY Calendar](https://calendar.google.com/calendar/embed?src=admin%40ops.agntcy.org&ctz=America%2FNew_York)
 - Repos:
   - [Identity Spec](https://github.com/agntcy/identity-spec)
