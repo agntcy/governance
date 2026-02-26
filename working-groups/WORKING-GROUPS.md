@@ -38,6 +38,8 @@ The current working groups are:
   - [API bridge](https://github.com/agntcy/api-bridge-agnt)
 - Discussions: 
   - [AGNTCY slack #wg-core](https://agntcy.slack.com/archives/C08R1LZEP0V)
+    - [#slim](https://agntcy.slack.com/archives/C08R87FSH4L)
+    - [#directory](https://agntcy.slack.com/archives/C08RT2918V6)
   - [SLIM GH Discussions](https://github.com/agntcy/slim/discussions)
   - [Dir GH Discussions](https://github.com/agntcy/slim/discussions)
   - [OASF GH Discussions](https://github.com/agntcy/oasf/discussions)
