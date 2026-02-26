@@ -16,7 +16,7 @@ The current working groups are:
 | [coffee-app-sdk](#coffee-app-sdk) | [drive](https://drive.google.com/drive/folders/1vyKYqh_Hlqi9TNdeGopgtHPjU9ogIxrN?usp=sharing)                                                                                             | [#wg-coffee-app-sdk](https://agntcy.slack.com/archives/C0979J92X9C) :: [GH Discussions](https://github.com/agntcy/coffeeAgntcy/discussions) | AGNTCY app-sdk and sample app (coffeeAgntcy) working group         |
 | [Marketing](#marketing) | [drive](https://drive.google.com/drive/folders/1JIxY0_gUDc6M4pnoruP7vXz6EExSpV5d?usp=drive_link) | [#marketing](https://agntcy.slack.com/archives/C09P92M33U2) | AGNTCY marketing working group |
 
-**NOTE:  To join ANY AGNTCY slack channels you must first join AGNTCY slack via** [AGNTCY Slack self join link]( https://join.slack.com/t/agntcy/shared_invite/zt-34sxmw5e8-LqlUxxcxROq3HRb56QSkUg)
+**NOTE:  To join ANY AGNTCY slack channels you must first join AGNTCY slack via** [AGNTCY Slack self join link](https://github.com/agntcy#connect-with-us)
 
 ## Core
 
