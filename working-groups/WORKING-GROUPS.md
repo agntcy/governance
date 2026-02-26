@@ -14,6 +14,7 @@ The current working groups are:
 | [Observe and Eval](#observe-and-eval) | [drive](https://drive.google.com/drive/folders/1TO_r4xuElzaqZKiQ8g8iSRicCC-s-FVw?usp=sharing)        | [#wg-observ-and-eval](https://agntcy.slack.com/archives/C08RMAML6JH) | AGNTCY observe and eval working group |
 | [Identity](#identity)                 | [drive](https://drive.google.com/drive/folders/1TuWnu991AhtpoqFdBjxQdEbb6VadVbBO)                                                                                             | [#wg-identity](https://agntcy.slack.com/archives/C08TZPX83KR)         | AGNTCY identity working group         |
 | [coffee-app-sdk](#coffee-app-sdk)                 | [drive](https://drive.google.com/drive/folders/1vyKYqh_Hlqi9TNdeGopgtHPjU9ogIxrN?usp=sharing)                                                                                             | [#wg-coffee-app-sdk](https://agntcy.slack.com/archives/C0979J92X9C)         | AGNTCY app-sdk and sample app (coffeeAgntcy) working group         |
+| [Marketing](#marketing) | [drive](https://drive.google.com/drive/folders/1JIxY0_gUDc6M4pnoruP7vXz6EExSpV5d?usp=drive_link) | [#marketing](https://agntcy.slack.com/archives/C09P92M33U2) | AGNTCY marketing working group |
 
 **NOTE:** [AGNTCY Slack self join link]( https://join.slack.com/t/agntcy/shared_invite/zt-34sxmw5e8-LqlUxxcxROq3HRb56QSkUg)
 
@@ -86,3 +87,16 @@ The current working groups are:
 |        | John Parello | Cisco Systems | https://github.com/jparello |
 |        | Cody Harstook     | Cisco Systems | https://github.com/codyhartsook |
 
+## Marketing
+
+- [Charter](marketing/CHARTER.md)
+- Roadmap: **TBD**
+- Meetings: Every two weeks - [See AGNTCY Calendar](https://calendar.google.com/calendar/embed?src=admin%40ops.agntcy.org&ctz=America%2FNew_York)
+- Docs: [drive](https://drive.google.com/drive/folders/1JIxY0_gUDc6M4pnoruP7vXz6EExSpV5d?usp=drive_link)
+- Repos:  None
+- Discussion Channel: [AGNTCY slack #marketing](https://agntcy.slack.com/)
+
+| &nbsp; | Leads            | Company       | Profile                      |
+| ------ | ---------------- | ------------- | ---------------------------- |
+|        | Mark Callahan | STRATA | **TBD** |
+|        | Luke Tucker     | Cisco Systems | https://github.com/lttucker23 |
