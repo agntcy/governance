@@ -29,7 +29,7 @@ The goals of this working group can be summarized as follows:
 |                     |                                                                                                                                                                                  |
 | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **💬 Join Slack**   | [#identity-wg Slack channel](https://join.slack.com/t/agntcy/shared_invite/zt-3hb4p7bo0-5H2otGjxGt9OQ1g5jzK_GQ)                                                                    |
-| **📅 Meetings**     | [Bi-weekly calendar](https://calendar.google.com/calendar/u/0/embed?src=admin@ops.agntcy.org)                                                                                    |
+| **📅 Meetings**     | [Bi-weekly calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/agntcy?view=month)                                                                                    |
 | **📂 Documents**    | [Google Drive folder](https://drive.google.com/drive/folders/1TuWnu991AhtpoqFdBjxQdEbb6VadVbBO)                                                                                  |
 | **💻 Repositories** | [identity](https://github.com/agntcy/identity) <br> [identity-service](https://github.com/agntcy/identity-service) <br> [identity-spec](https://github.com/agntcy/identity-spec) |
 | **📍🗺️ Roadmap**    | <https://github.com/orgs/agntcy/projects/4/views/11>                                                                                                                             |
