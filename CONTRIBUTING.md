@@ -43,9 +43,12 @@ Current TSC members in alphabetical order:
 - Michael Clifford (Red Hat, @MichaelClifford)
 - Luca Muscariello (Cisco, @muscariello)
 - John Parello (Cisco, @jparello)
-- Egor Pushkin (Oracle, @egorpushkin)
 - Todd Segal (Google Cloud, @ToddSegal)
 - Marcelo Yannuzi (Cisco, @mayannuz)
+- Anant Patel (Oracle, @AnantPatel44)
+
+Emeritus TSC members:
+- Egor Pushkin (Oracle, @egorpushkin)
 
 ## Working Groups
 
