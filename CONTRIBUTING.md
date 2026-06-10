@@ -40,14 +40,16 @@ You can read more detail about each role in the [Operating Model document](OPERA
 Current TSC members in alphabetical order:
 
 - John Cardente (Dell Technologies, @jcardente-dell)
-- Michael Clifford (Red Hat, @MichaelClifford)
+- Kevin Cogan (Red Hat, @kevincogan)
 - Luca Muscariello (Cisco, @muscariello)
 - John Parello (Cisco, @jparello)
-- Todd Segal (Google Cloud, @ToddSegal)
-- Marcelo Yannuzi (Cisco, @mayannuz)
 - Anant Patel (Oracle, @AnantPatel44)
+- Todd Segal (Google Cloud, @ToddSegal)
+- Hema Seshadri (Akamai)
+- Marcelo Yannuzi (Cisco, @mayannuz)
 
 Emeritus TSC members:
+- Michael Clifford (Red Hat, @MichaelClifford)
 - Egor Pushkin (Oracle, @egorpushkin)
 
 ## Working Groups
@@ -58,9 +60,9 @@ For more information about our working groups, including leadership roles and sc
 
 ## Community Engagement
 
-Alongside collaborating via GitHub with Issues, PRs, and Discussions, we welcome you to our Slack Workspace to continue discussing AGNTCY and its sub-projects. Join us at [agntcy.slack.com](https://agntcy.slack.com/archives/C0893S6D284) -- [AGNTCY Slack self join link](https://join.slack.com/t/agntcy/shared_invite/zt-34sxmw5e8-LqlUxxcxROq3HRb56QSkUg).
+Alongside collaborating via GitHub with Issues, PRs, and Discussions, we welcome you to our Slack Workspace to continue discussing AGNTCY and its sub-projects. Join us at [agntcy.slack.com](https://agntcy.slack.com/archives/C0893S6D284) -- [AGNTCY Slack self join link](https://join.slack.com/t/agntcy/shared_invite/zt-3xozr6nzq-i6LXv2P8l2kVW4_Prnny2w).
 
-To join the various community meetings that have been set up by AGNTCY working groups, see the [AGNTCY calendar](https://calendar.google.com/calendar/embed?src=admin%40ops.agntcy.org&ctz=America%2FNew_York), set up via Google Groups.
+To join the various community meetings that have been set up by AGNTCY working groups, see the [AGNTCY meeting calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/agntcy?view=week).
 
 ## License
 
