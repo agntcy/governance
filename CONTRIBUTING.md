@@ -60,7 +60,7 @@ For more information about our working groups, including leadership roles and sc
 
 ## Community Engagement
 
-Alongside collaborating via GitHub with Issues, PRs, and Discussions, we welcome you to our Slack Workspace to continue discussing AGNTCY and its sub-projects. Join us at [agntcy.slack.com](https://agntcy.slack.com/archives/C0893S6D284) -- [AGNTCY Slack self join link](https://join.slack.com/t/agntcy/shared_invite/zt-3xozr6nzq-i6LXv2P8l2kVW4_Prnny2w).
+Alongside collaborating via GitHub with Issues, PRs, and Discussions, we welcome you to our Slack Workspace and Discord communities to continue discussing AGNTCY and its sub-projects. Join us at [agntcy.slack.com](https://agntcy.slack.com/archives/C0893S6D284) -- [AGNTCY Slack self join link](https://join.slack.com/t/agntcy/shared_invite/zt-3xozr6nzq-i6LXv2P8l2kVW4_Prnny2w). Component Discord communities: [SLIM](https://discord.gg/hdTDzBQe7D) and [Agent Directory (DIR)](https://discord.gg/FbEnSHXD34).
 
 To join the various community meetings that have been set up by AGNTCY working groups, see the [AGNTCY meeting calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/agntcy?view=week).
 
