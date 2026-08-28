@@ -187,9 +187,9 @@ Contribution workflows can be established for each respective AGNTCY affiliate p
 
 ### 6.1 Communication Channels
 
-The core communication will be through the AGNTCY's Slack instance which will be through invite-only access at first.
+The core communication will be through the AGNTCY's Slack instance which will be through invite-only access at first, alongside component Discord communities for SLIM and Agent Directory.
 
-- **Real-Time Chat**: Slack (agntcy.slack.com) for quick collaboration, Q&A, Technical Steering Committee and member engagement / collaboration.
+- **Real-Time Chat**: Slack ([agntcy.slack.com](https://agntcy.slack.com)) for quick collaboration, Q&A, Technical Steering Committee and member engagement / collaboration. Discord communities for [SLIM](https://discord.gg/hdTDzBQe7D) and [Agent Directory (DIR)](https://discord.gg/FbEnSHXD34) sit alongside Slack for component-focused discussion.
 - **Video chat:** When necessary and as affiliate project or AGNTCY business needs evolves, members may need to join collaborative video calls via Webex, Google Hangout, Zoom, or similar.
 - **Community Calls**: If needed, quarterly video calls could be held that would be open to everyone, focusing on demos, roadmap updates, and Q&A.
 
