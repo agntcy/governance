@@ -25,7 +25,7 @@ The current working groups are:
   - [SLIM](https://github.com/orgs/agntcy/projects/4/views/8)
   - [Agent Directory](https://github.com/orgs/agntcy/projects/4/views/4)
   - [OASF](https://github.com/orgs/agntcy/projects/4/views/9)
-- Meetings: [See AGNTCY Calendar](https://calendar.google.com/calendar/embed?src=admin%40ops.agntcy.org&ctz=America%2FNew_York)
+- Meetings: [See AGNTCY Calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/agntcy?view=week)
 - Repos:
   - [SLIM](https://github.com/agntcy/slim)
   - [Agent Directory](https://github.com/agntcy/dir)
