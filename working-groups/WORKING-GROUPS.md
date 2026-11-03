@@ -59,7 +59,7 @@ The current working groups are:
 - Roadmap:
   - [Observe-SDK](https://github.com/agntcy/telemetry-hub)
   - [Telemetry-Hub](https://github.com/agntcy/telemetry-hub)
-- Meetings: [See AGNTCY Calendar](https://calendar.google.com/calendar/embed?src=admin%40ops.agntcy.org&ctz=America%2FNew_York)
+- Meetings: [See AGNTCY Calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/agntcy?view=week)
 - Repos:
   - [Observe-SDK](https://github.com/agntcy/observe)
   - [Telemetry Hub](https://github.com/agntcy/telemetry-hub)
@@ -79,7 +79,7 @@ The current working groups are:
 - Workstreams:
   - [Charter & Leads](https://github.com/agntcy/governance/blob/main/working-groups/identity/CHARTER.md#active-workstreams)
   - [Activity Info](https://github.com/agntcy/identity-service/tree/main/docs/contribute/wip)
-- Meetings: [See AGNTCY Calendar](https://calendar.google.com/calendar/embed?src=admin%40ops.agntcy.org&ctz=America%2FNew_York)
+- Meetings: [See AGNTCY Calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/agntcy?view=week)
 - Repos:
   - [Identity Spec](https://github.com/agntcy/identity-spec)
   - [Identity](https://github.com/agntcy/identity)
@@ -100,7 +100,7 @@ The current working groups are:
 
 - [Charter](coffee-app-sdk/charter.md)
 - [Roadmap](https://github.com/orgs/agntcy/projects/4/views/16)
-- Meetings: [See AGNTCY Calendar](https://calendar.google.com/calendar/embed?src=admin%40ops.agntcy.org&ctz=America%2FNew_York)
+- Meetings: [See AGNTCY Calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/agntcy?view=week)
 - Repos:
   - [app-sdk](https://github.com/agntcy/app-sdk)
   - [coffeeAgntcy](https://github.com/agntcy/coffeeAgntcy/)
@@ -118,7 +118,7 @@ The current working groups are:
 
 - [Charter](marketing/CHARTER.md)
 - Roadmap: **TBD**
-- Meetings: Every two weeks - [See AGNTCY Calendar](https://calendar.google.com/calendar/embed?src=admin%40ops.agntcy.org&ctz=America%2FNew_York)
+- Meetings: Every two weeks - [See AGNTCY Calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/agntcy?view=week)
 - Docs: [drive](https://drive.google.com/drive/folders/1JIxY0_gUDc6M4pnoruP7vXz6EExSpV5d?usp=drive_link)
 - Repos:  None
 - Discussion Channel: [AGNTCY slack #marketing](https://agntcy.slack.com/)

@@ -86,7 +86,7 @@ working group._
 
 - **Schedule a Recurring Meeting**. Create a recurring meeting (weekly or
   bi-weekly, 30 or 60 minutes) on the
-  [shared calendar](https://calendar.google.com/calendar/embed?src=admin%40ops.agntcy.org&ctz=America%2FNew_York)
+  [shared calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/agntcy?view=week)
   and call the meeting "\$GROUP_NAME WG". Attach the meeting notes document to
   the calendar event. Generally schedule these meetings between 9:00AM to 2:59PM
   Pacific Time. Invite `<TBD>` Google group to the
