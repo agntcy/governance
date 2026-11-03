@@ -1,7 +1,7 @@
 # WG Meeting Cadence
 
 - **Weekly Community Call** (Video). Duration: 45 min. 
-- See the [AGNTCY Calendar](https://calendar.google.com/calendar/u/0/embed?src=admin@ops.agntcy.org) for details
+- See the [AGNTCY Calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/agntcy?view=week) for details
 
 - **Standing Agenda**:  
   1. Status updates  
